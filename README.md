@@ -1,0 +1,2 @@
+# Sample_Regression_Analysis
+During my student assitantship, I was consultend on many different issues relating to analytics and descriptive statistics concerning the total teaching hours of the staff, the statistics of the exam results, etc. I was commissioned this one when we needed to change plans for the booking system we use. This is an ad-hoc regression analysis done to predict the amount of bookings we will receive in 2022 and develop a plan to answer for the increasing demand.
